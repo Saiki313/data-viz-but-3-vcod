@@ -10,4 +10,4 @@ La base provient de données de VGChartz et ne couvre pas l'ensemble du marché 
 
 ## Capture du dashboard
 
-![Capture du dashboard sur les ventes de jeux vidéo](dashboard-jeux-video.png)
+![Capture du dashboard sur les ventes de jeux vidéo](dashboard.png)
