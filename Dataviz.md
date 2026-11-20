@@ -25,7 +25,7 @@ Deux réserves s'imposent. Une seule année et 111 accidents mortels ne suffisen
 | Points petits et transparents | Avec plus de 1 200 accidents, la superposition fait ressortir les zones denses sans cacher les communes | 13 |
 | Une seule couleur pour les accidents sur la carte | Il n'y a rien à distinguer par la couleur, et la carte reste lisible pour les daltoniens | 8 |
 | Villes et départements nommés sur la carte | On se repère sans aller chercher une légende | 9 |
-| Limites de département en trait épais et foncé, routes en gris clair | On ne confond pas les deux types de lignes | – |
+
 | Quatre catégories de luminosité au lieu de cinq | « Éclairage présent mais non allumé » ne concerne que 16 accidents : je l'ai fusionné avec « sans éclairage » | 11 |
 | Barres horizontales classées du taux le plus fort au plus faible | Les libellés longs restent lisibles et le classement se voit tout de suite | 7 et 12 |
 | Taux et effectif écrits au bout de chaque barre, sans axe | On lit la valeur directement et on voit sur combien d'accidents repose chaque taux | 9 |
